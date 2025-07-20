@@ -42,8 +42,8 @@ for (let p of pronoun) {
 }
 
 console.log(`For the complete list of generated domains,`);
-console.log(`check the 'result' folder for the 'domain.json' file.`);
+console.log(`check the 'result' folder for the 'domains.json' file.`);
 console.log(`-- Some examples:`);
 console.log(preview);
 
-writeFileSync('result/domains.json', JSON.stringify(domains, null, 2));
+writeFileSync('domains.json', JSON.stringify(domains, null, 2));
