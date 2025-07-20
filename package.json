@@ -1,0 +1,20 @@
+{
+  "name": "domain-generator",
+  "version": "1.0.0",
+  "description": "Domain Generator made for 4Geeks Bootcamp",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waficmikati/4geeks-domain-generator.git"
+  },
+  "author": "Wafic Ryan Mikati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waficmikati/4geeks-domain-generator/issues"
+  },
+  "homepage": "https://github.com/waficmikati/4geeks-domain-generator#readme"
+}
