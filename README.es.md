@@ -17,5 +17,3 @@ He aprovechado para aprender a configurar mi script por mi cuenta con node y npm
 Después de darme cuenta de que mis arrays se combinaban en más de 20k dominios, decidí en su lugar escribirlos en un archivo `json`. Leí sobre el método `writeFileSync` y lo usé al final de mi script. Luego limpié mi salida de consola para que fuera más sucinta, informativa y legible. 
 
 Disfruté trabajando en esto, y fue divertido descubrir un algoritmo limpio para hacerlo.
-
-Traducción realizada con la versión gratuita del traductor DeepL.com
