@@ -5,7 +5,7 @@ A `domains.json` file will be generated will all the possible domain combination
 
 If the domain name ends with letters that are available as a domain suffix, the suffix will be incorporated as such in the final result. The console will show some examples of this.
 
-Example: `thegreatpengu.in`
+Example: `thegreatpenguin => thegreatpengu.in`
 
 ---
 
