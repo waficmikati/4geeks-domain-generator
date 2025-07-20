@@ -5,7 +5,7 @@ Se generará un archivo `domains.json` con todas las combinaciones posibles de d
 
 Si el nombre de dominio termina con letras que están disponibles como sufijo de dominio, el sufijo se incorporará como tal en el resultado final. La consola mostrará algunos ejemplos de ello.
 
-Ejemplo: `thegreatpenguin` => `thegreatpengu.in`
+Ejemplo: `thegreatpenguin => thegreatpengu.in`
 
 ---
 
